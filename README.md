@@ -1,0 +1,2 @@
+# sinif_gecme
+not
